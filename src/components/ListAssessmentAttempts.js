@@ -66,7 +66,7 @@ function UserDetail() {
       {showPopup && (
         <div className="popup">
           <div className="popup-content">
-            <h2>Invite Candidates</h2>
+            <h2 className="title-popup">Invite Candidates</h2>
             <input
               type="text"
               className="email-input"
